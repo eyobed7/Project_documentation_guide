@@ -1,3 +1,4 @@
+![project](project.jpg)
 # Requirement Analysis: Defining Features and Functionalities
 
 ## What is Requirement Analysis?
